@@ -1,0 +1,2 @@
+# Grand Strategy Game Screenshots
+
