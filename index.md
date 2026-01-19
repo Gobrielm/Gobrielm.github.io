@@ -32,4 +32,4 @@ Grand Strategy Game | Godot, C/C++, Git
   <li>Increased simulation speed by ∼ 66% by utilizing multi-threading</li>
   <li>Sped up autonomous train routing by potentially ∼10x, depending on the density, through dynamic rail node networks that create a more efficient navigation graph</li>
 </ul>
-[Pictures and More info](/projects/grand_strat.html) <br>
+[Pictures and More info](/projects/grand_strat) <br>
