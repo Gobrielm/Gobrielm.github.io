@@ -7,7 +7,7 @@ I am a computer science student attending University of California, Davis. I am 
 
 # Projects
 
-Android Game | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studio
+<b>Android Game</b> | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studio
 <ul>
   <li>Developed a full-stack asynchronous multiplayer role-playing game app with 24+ different pages using Android Studio & Kotlin</li>
   <li>Designed 10 different RESTful API endpoints to facilitate storage of user data through a TypeScript server</li>
@@ -20,7 +20,7 @@ Link to front-end repo: <a href="https://github.com/Gobrielm/RPG-Game">github.co
 Link to back-end repo: <a href="https://github.com/Gobrielm/rpggamebackend">github.com/Gobrielm/rpggamebackend</a> <br>
 <br>
 
-Weather App | React, HTML/CSS, Node.JS, Javascript
+<b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript
 <ul>
   <li>Developed an interactive weather application supporting global location searches through a React UI</li>
   <li>Improved performance and reduced API cost by caching repeat queries in a MongoDB database via a Node.JS server</li>
@@ -28,7 +28,7 @@ Weather App | React, HTML/CSS, Node.JS, Javascript
 
 <br>
 
-Grand Strategy Game | Godot, C/C++, Git
+<b>Grand Strategy Game</b> | Godot, C/C++, Git
 <ul>
   <li>Created a Grand Strategy Game with ∼18,000 lines of code, supporting millions of objects concurrently, C/C++ for simulations, and Godot for everything else</li>
   <li>Increased simulation speed by ∼ 66% by utilizing multi-threading</li>
