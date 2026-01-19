@@ -1,4 +1,3 @@
-<title>Grand Strategy</title>
 
 Screenshot of the USA. The world map made with real life terrain, moisture levels, and forestry information.
 <img src="./usa.jpg">
