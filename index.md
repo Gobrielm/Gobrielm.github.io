@@ -7,8 +7,7 @@ I am a computer science student attending University of California, Davis. I am 
 
 # Projects
 
-<b>Android Game</b> | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studio
-
+### <b>Android Game</b> | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studio <br>
 A role-playing game app I developed to showcase a full-stack app with authenication and presistant user storage. It runs on android and is on the play store through a testing track.
 
 Link to app: <a href="https://play.google.com/apps/testing/com.mainApp.rpg">play.google.com/apps/testing/com.mainApp.rpg</a> <br>
@@ -17,8 +16,7 @@ Link to back-end repo: <a href="https://github.com/Gobrielm/rpggamebackend">gith
 
 <br><br>
 
-<b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript
-
+### <b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript <br>
 An interactive weather application supporting global location searches through a React UI with a NodeJS/Express backend to process queries and store recent lookups in a MongoDB.<br>
 In the process of revamping.
 
@@ -26,7 +24,7 @@ Link to repo: <a href="https://github.com/Gobrielm/Projects/tree/main/react/weat
 
 <br><br>
 
-<b>Grand Strategy Game</b> | Godot, C/C++, Git <br>
+### <b>Grand Strategy Game</b> | Godot, C/C++, Git <br>
 This project dealt with creating a grand strategy game based in the 19th century with features from realistic resource deposits & terrain, road & rail networks, army battles, and ai businesses that will grow and expand. 
 
 Link to repo: <a href="https://github.com/Gobrielm/Grand-Strat">github.com/Gobrielm/Grand-Strat</a> <br>
