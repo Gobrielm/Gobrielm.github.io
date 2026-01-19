@@ -1,4 +1,3 @@
-# Grand Strategy Game Screenshots
 
 Screenshot of the USA. The world map made with real life terrain, moisture levels, and forestry information.
 <img src="./usa.jpg">
@@ -16,3 +15,4 @@ Some simulation data from successful and unsuccessful simulations.<br>
 <img src="./sim2.jpg">
 
 <img src="./sim3.jpg">
+
