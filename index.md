@@ -1,4 +1,4 @@
-
+<title>Gabriel McKay</title>
 
 ## Contacts: <a href="mailto:gabriel.p.mckay@gmail.com">gabriel.p.mckay@gmail.com</a> | <a href="https://www.linkedin.com/in/gabriel-mckay-773303296/">linkedin.com/in/gabriel-mckay-773303296</a>
 I am a computer science student attending University of California, Davis. I am currently a junior expected to graduation June 2027.
