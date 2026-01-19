@@ -16,7 +16,6 @@ Android Game | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studi
 Link to app: <a href="https://play.google.com/apps/testing/com.mainApp.rpg">play.google.com/apps/testing/com.mainApp.rpg</a> <br>
 Link to front-end repo: <a href="https://github.com/Gobrielm/RPG-Game">github.com/Gobrielm/RPG-Game</a> <br>
 Link to back-end repo: <a href="https://github.com/Gobrielm/rpggamebackend">github.com/Gobrielm/rpggamebackend</a> <br>
-[Pictures and More info](/projects/grand_strat) <br>
 <br>
 
 Weather App | React, HTML/CSS, Node.JS, Javascript
@@ -33,3 +32,4 @@ Grand Strategy Game | Godot, C/C++, Git
   <li>Increased simulation speed by ∼ 66% by utilizing multi-threading</li>
   <li>Sped up autonomous train routing by potentially ∼10x, depending on the density, through dynamic rail node networks that create a more efficient navigation graph</li>
 </ul>
+[Pictures and More info](/projects/grand_strat) <br>
