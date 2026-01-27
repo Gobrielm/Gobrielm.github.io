@@ -3,9 +3,10 @@
 ## Contacts: <a href="mailto:gabriel.p.mckay@gmail.com">gabriel.p.mckay@gmail.com</a> | <a href="https://www.linkedin.com/in/gabriel-mckay-773303296/">linkedin.com/in/gabriel-mckay-773303296</a>
 I am a computer science student attending University of California, Davis. I am currently a junior expected to graduation June 2027.
 
-# Current Goal
+# Current Goal/Work
 
-Revamping my old Weather App to have a more functional front page, better api routes, and to use PostgreSql instead of mongoDB.
+Working to find a project that intergrates various machine learning, agent based ais, and decision based ais learned from school. <br>
+Currently working as a volunteer coder for a game that has me working on writing different ais, pathfinding and building isometric hexagonal grids, and building general systems.
 
 # Projects
 
@@ -18,11 +19,13 @@ Link to back-end repo: <a href="https://github.com/Gobrielm/rpggamebackend">gith
 
 <br><br>
 
-### <b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript <br>
+### <b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript, Next.JS, Vercel, PostgreSQL<br>
 An interactive weather application supporting global location searches through a React UI with a NodeJS/Express backend to process queries and store recent lookups in a MongoDB.<br>
 In the process of revamping.
 
-Link to repo: <a href="https://github.com/Gobrielm/Projects/tree/main/react/weather-app">github.com/Gobrielm/Projects/tree/main/react/weather-app</a> <br>
+Website: <a href="https://react-website-two-umber.vercel.app/">react-website-two-umber.vercel.app/</a> <br>
+Link to repo 1st iteration: <a href="https://github.com/Gobrielm/Projects/tree/main/react/weather-app">github.com/Gobrielm/Projects/tree/main/react/weather-app</a> <br>
+Link to repo 2nd iteration: <a href="https://github.com/Gobrielm/react-website">github.com/Gobrielm/react-website</a> <br>
 
 <br><br>
 
