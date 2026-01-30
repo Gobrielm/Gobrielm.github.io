@@ -8,7 +8,7 @@ I am a computer science student attending University of California, Davis. I am 
 Working to find a project that intergrates various machine learning, agent based ais, and decision based ais learned from school. <br>
 Currently working as a volunteer coder for a game that has me working on writing different ais, pathfinding and building isometric hexagonal grids, and building general systems.
 
-# Projects
+# Personal Projects
 
 ### <b>Android Game</b> | Kotlin, TypeScript, GCP Firebase/Firestore, Vercel, Android Studio <br>
 A role-playing game app I developed to showcase a full-stack app with authenication and presistant user storage. It runs on android and is on the play store through a testing track.
@@ -34,3 +34,15 @@ This project dealt with creating a grand strategy game based in the 19th century
 
 Link to repo: <a href="https://github.com/Gobrielm/Grand-Strat">github.com/Gobrielm/Grand-Strat</a> <br>
 [Pictures and More info](/projects/grand_strat) <br>
+
+# Interesting School Projects
+
+Either interesting projects or projects I have done more work or more work than was required. <br>
+
+### <b>A* on Mt. St. Helens</b> | Python <br>
+Running A* and A* approx to climb a mountain.
+
+Link to repo with some pictures: <a href="https://github.com/Gobrielm/mt_helens">github.com/Gobrielm/mt_helens</a> <br>
+
+
+
