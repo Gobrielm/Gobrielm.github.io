@@ -5,8 +5,9 @@ I am a computer science student attending University of California, Davis. I am 
 
 # Current Goal/Work
 
-Working to find a project that intergrates various machine learning, agent based ais, and decision based ais learned from school. <br>
-Currently working as a volunteer coder for a game that has me working on writing different ais, pathfinding and building isometric hexagonal grids, and building general systems.
+<ul>
+  <li>Working on integrating a Godot Simulation (something with local economics, ie towns) with reinforcement learning and deep learning.</li>
+</ul>
 
 # Personal Projects
 
@@ -17,17 +18,17 @@ Link to app: <a href="https://play.google.com/apps/testing/com.mainApp.rpg">play
 Link to front-end repo: <a href="https://github.com/Gobrielm/RPG-Game">github.com/Gobrielm/RPG-Game</a> <br>
 Link to back-end repo: <a href="https://github.com/Gobrielm/rpggamebackend">github.com/Gobrielm/rpggamebackend</a> <br>
 
-<br><br>
+<br>
 
 ### <b>Weather App</b> | React, HTML/CSS, Node.JS, Javascript, Next.JS, Vercel, PostgreSQL<br>
 An interactive weather application supporting global location searches through a React UI with a NodeJS/Express backend to process queries and store recent lookups in a MongoDB.<br>
-In the process of revamping.
+Changed to a PostgreSQL database hosted on Supabase and a nextjs backend hosted on Vercel.<br>
 
 Website: <a href="https://react-website-two-umber.vercel.app/">react-website-two-umber.vercel.app/</a> <br>
 Link to repo 1st iteration: <a href="https://github.com/Gobrielm/Projects/tree/main/react/weather-app">github.com/Gobrielm/Projects/tree/main/react/weather-app</a> <br>
 Link to repo 2nd iteration: <a href="https://github.com/Gobrielm/react-website">github.com/Gobrielm/react-website</a> <br>
 
-<br><br>
+<br>
 
 ### <b>Grand Strategy Game</b> | Godot, C/C++, Git <br>
 This project dealt with creating a grand strategy game based in the 19th century with features from realistic resource deposits & terrain, road & rail networks, army battles, and ai businesses that will grow and expand. 
